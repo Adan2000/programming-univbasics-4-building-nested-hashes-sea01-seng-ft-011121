@@ -1,23 +1,21 @@
 require 'pry'
+
 def base_hash 
   key = {
   :railroads => {}
   }
 end
 
-
- key = {
+def monopoly_with_second_tier
+  key = {
   :railroads => {
-    :pieces => 4,
+    :pieces =>4,
     :rent_in_dollars => {},
     :names => {}
   }
 
 }
 
-
-def monopoly_with_second_tier
- 
 
   
 end
