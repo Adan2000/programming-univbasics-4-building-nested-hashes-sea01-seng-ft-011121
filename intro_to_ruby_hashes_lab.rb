@@ -60,7 +60,9 @@ key = {
       :b_and_o_railroad => {
         :mortgage_value => 400
       },
-      :shortline_railroad => {}
+      :shortline_railroad => {
+        :mortgage_value => 800
+      }
     }
   }
 
