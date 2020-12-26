@@ -14,19 +14,7 @@ end
 
 def monopoly_with_second_tier
  
- key = {
-  :railroads => {
-    :pieces => 4,
-    
-    :rent_in_dollars=>{}
-      
-      :one_piece_owned=>25,
 
-  
-    :names=>{}
-  }
-
-}
   
 end
   # When you start writing the implementation for this method, copy the Hash
